@@ -1,5 +1,5 @@
 // CADASTRO
-let nome = (prompt("Digite seu nome"))
+let nome = prompt("Digite seu nome")
 let idade = parseInt(prompt("Digite sua idade")) 
 let senha = parseInt(prompt("Digite sua senha"))
 
